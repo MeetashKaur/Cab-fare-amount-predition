@@ -16,3 +16,5 @@ Number of attributes in the train dataset:
 6.passenger_count - an integer indicating the number of passengers in the cab ride.
 
 7.fare_amount- integer value indicating the fare amount for the certain values of above mentioned variables.
+
+Train and test datasets are provided in the repository
