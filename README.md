@@ -18,3 +18,9 @@ Number of attributes in the train dataset:
 7.fare_amount- integer value indicating the fare amount for the certain values of above mentioned variables.
 
 Train and test datasets are provided in the repository
+
+Algorithms implemented are:- 
+1. Linear Regresson
+2. Decision Tree
+3. Random forest
+4. KNN
